@@ -69,3 +69,35 @@ form label{
     border: spx solid #5656ff;
     box-shadow: 0 0 10px #a9a9ff;
 }
+
+.comments{
+    margin-bottom: 5%;
+}
+
+.comment{
+    display: flex;
+}
+
+.avatar{
+    margin-right: 35px;
+}
+
+.avatar img{
+    width: 70px;
+    height: 70px;
+    border-radius: 30px;
+}
+
+.author{
+    margin-top: 20px;
+}
+
+.comment-source p{
+    font-size: 0.9em;
+    color: rgb(145, 145, 145);
+}
+
+.comment-content{
+    font-size: 1.1em;
+    font-weight: 400;
+}
